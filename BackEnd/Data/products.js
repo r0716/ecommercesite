@@ -1,5 +1,6 @@
 products = [
     {
+        "img": "",
         "department": "Womens",
         "product_title": "Elegant Silk Dress",
         "description": "A luxurious silk dress that exudes elegance and sophistication.",
@@ -9,6 +10,7 @@ products = [
         "product_no": 758943
     },
     {
+        "img": "",
         "department": "Womens",
         "product_title": "Cashmere Sweater",
         "description": "A soft and cozy cashmere sweater for ultimate comfort and style.",
