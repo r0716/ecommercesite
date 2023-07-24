@@ -35,6 +35,7 @@
     row-gap: 1rem;
     column-gap: 1rem; 
     font-family: 'Raleway', sans-serif;
+    margin: 10px;
 }
 
 .card {
@@ -46,4 +47,35 @@
 .card img{
     width: 100%;
     height: 100%;
+}
+
+#cardButtons{
+   padding: 10px 5px;
+}
+
+#sizeButtons{
+    padding: 10px 5px;}
+
+.col-md-4 img{
+    width: 100%;
+    height: 98%;
+}
+
+
+
+.thumbnail.nav-tabs {
+    border: none;
+    margin-top: 170px; }
+    .thumbnail.nav-tabs li {
+      width: 18%;
+      margin-right: 2%; }
+      .thumbnail.nav-tabs li img {
+        max-width: 100%;
+        height: 99%;
+        display: block; }
+      .thumbnail.nav-tabs li a {
+        padding: 0;
+        margin: 0; }
+      .thumbnail.nav-tabs li:last-of-type {
+        margin-right: 0; 
 }
